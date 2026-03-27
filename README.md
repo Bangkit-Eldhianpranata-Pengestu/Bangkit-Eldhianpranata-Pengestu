@@ -16,10 +16,7 @@
 
 <br>
 
-I believe in learning by doing. Whether it's working through
-structured labs, experimenting in controlled environments,
-or analyzing real-world scenarios, hands-on experience is
-where true understanding happens.
+Focused on web application security. Breaking auth flows, chasing access control flaws, and learning how modern apps fail.
 
 <br>
 
