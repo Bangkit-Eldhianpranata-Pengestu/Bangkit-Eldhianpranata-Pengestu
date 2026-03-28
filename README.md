@@ -37,8 +37,6 @@ Focused on web application security. Breaking auth flows, chasing access control
 ![nhx0x1 git](https://github-readme-stats-fast.vercel.app/api?username=nhx0x1&theme=chartreuse-dark&show_icons=true)
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=nhx0x1&theme=blue-green)](https://github.com/pranesh-2005/github-readme-stats-fast)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nhx0x1&layout=pie)](https://github.com/Pranesh-2005/github-readme-stats)
-[![mommy](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E3NXNiemxra2R0cGN0eXMzeWJhZzFvbDhvNXU2bnRwcWM2c3Z0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8UzDLtamS5NMLtXQU1/giphy.gif)
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhx0x1&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 
