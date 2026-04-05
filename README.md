@@ -1,6 +1,6 @@
 > [!CAUTION]
 > "Berbukalah yg manis manis, karena yg manis tentu tidak datang dua kali. Karena noshiro tidak hadir di realitas namun dia hadir sebagai pengingat bahwa saya ada waifu dan my istri secantik dia"
-> Gweh lop noshiro 😘😘
+> Gweh lop noshiro 😘😘 :)
 
 <br>
 
