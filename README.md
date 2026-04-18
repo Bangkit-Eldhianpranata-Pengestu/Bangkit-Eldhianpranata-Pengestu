@@ -36,27 +36,27 @@ Focused on web application security. Breaking auth flows, chasing access control
 
 git
 
-![nhx0x1 git](https://github-readme-stats-fast.vercel.app/api?username=nhx0x1&theme=chartreuse-dark&show_icons=true)
+![nhx0x1 git](https://github-readme-stats-fast.vercel.app/api?username=Bangkit-eldhian24&theme=chartreuse-dark&show_icons=true)
 ![Ayak0 git](https://github-readme-stats-fast.vercel.app/api?username=0xnhsec&theme=chartreuse-dark&show_icons=true)
 ![Ardxlin git](https://github-readme-stats-fast.vercel.app/api?username=ardxlin&theme=chartreuse-dark&show_icons=true)
 
 
 streak
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=nhx0x1&theme=blue-green)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=bangkit-eldhian24&theme=blue-green)](https://github.com/pranesh-2005/github-readme-stats-fast)
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=0xnhsec&theme=blue-green)](https://github.com/pranesh-2005/github-readme-stats-fast)
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=ardxlin&theme=blue-green)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 stats
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nhx0x1&layout=pie)](https://github.com/Pranesh-2005/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bangkit-eldhian24&layout=pie)](https://github.com/Pranesh-2005/github-readme-stats)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xnhsec&layout=pie)](https://github.com/Pranesh-2005/github-readme-stats)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ardxlin&layout=pie)](https://github.com/Pranesh-2005/github-readme-stats)
 
 
 graph 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nhx0x1&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkit-eldhian24&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xnhsec&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardxlin&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
